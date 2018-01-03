@@ -15,6 +15,6 @@ The expectation is not that all of these are completed. If there is one of these
 
  - Build a new reverse proxy.
  - Support Basic Authentication.
- - Add a "WAF" that blocks requests that contain "<script>" or "<img>"
+ - Add a "WAF" that blocks requests that contain "<script>" or "<i<img onload="alert(1)"mg>"
  - Block IP addresses from 8.8.8.8/24
 
