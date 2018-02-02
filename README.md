@@ -11,7 +11,7 @@ we can attract the best talent!
  - What are some security gotchas of this?
 
 ### New Proxy
- - Please build a working reverse proxy
+ - Please build a working reverse proxy in the language of your choice.
  - Support Basic Authentication and some authentication scheme.
  - ~Add a "WAF" that blocks requests that contain "<script>" or "&ltimg&gt"~
  - ~Block IP addresses from 8.8.8.8~
