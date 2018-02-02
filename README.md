@@ -11,10 +11,8 @@ we can attract the best talent!
  - What are some security gotchas of this?
 
 ### New Proxy
-The expectation is not that all of these are completed. If there is one of these that you really love, I would also love to see a GREAT WAF, or a GREAT IP firewall, instead of hacky ones.
-
- - Build a new reverse proxy.
- - Support Basic Authentication.
+ - Please build a working reverse proxy
+ - Support Basic Authentication and some authentication scheme.
  - ~Add a "WAF" that blocks requests that contain "<script>" or "&ltimg&gt"~
- - ~Block IP addresses from 8.8.8.8 ~
-
+ - ~Block IP addresses from 8.8.8.8~
+ - Talk about preventing security issues associated with reverse proxies.
