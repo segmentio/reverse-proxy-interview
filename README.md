@@ -1,10 +1,9 @@
 # Reverse Proxy Security Interview
 Our previous reverse proxy that we built was insecure and built in PHP!
 
-We want to build our reverse proxy with the latest technology so that
-we can attract the best talent!
-
 # Assignment
+What is this? Developer wants to build a proxy to fetch URLs for Segment's internal use (Segment employees). 
+
 ### Old Proxy.
  - What security issues does the old proxy have?
  - How does a reverse proxy work?
